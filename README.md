@@ -23,7 +23,7 @@ I am open to internship or any frontend entry level job to help improve my skill
 
 👯‍♀️ I'm looking to collaborate on any project that will boost my learning pace..
 
-📫 How to reach me email: hokedelepelumy@gmail.com
+📫 How to reach me email: hokedelepelumy@gmail.com, segunokedele.y@gmail.com
 
 😄 Pronouns (Him/He)...
 
