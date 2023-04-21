@@ -1,4 +1,4 @@
-#   Segun Okedele-
+#   Segun Okedele
 
 
 
@@ -31,4 +31,4 @@ I am open to internship or any frontend entry level job to help improve my skill
 
 ## 🛠 Skills
 
-HTML5, CSS, and JavaScript
+HTML5, CSS, JavaScript and React
