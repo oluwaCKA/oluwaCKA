@@ -19,7 +19,7 @@ I am open to internship or any frontend entry level job to help improve my skill
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning Javascript Algorithm and Data structure
+🧠 I'm currently learning React and Javascript Algorithm and Data structure as learning never stops
 
 👯‍♀️ I'm looking to collaborate on any project that will boost my learning pace..
 
